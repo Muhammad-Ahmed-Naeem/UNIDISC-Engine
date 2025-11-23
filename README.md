@@ -72,11 +72,4 @@ Tests cover sets, relations, logic inference, scheduling algorithms, and prerequ
 Key Concepts Applied
 
 This system is built upon fundamental discrete mathematics topics, including:
-Sets and Subsets
-Relations and Functions
-Equivalence Relations and Partial Orders
-Propositional and Predicate Logic
-Mathematical Induction and Strong Induction
-Recursion and Dynamic Programming
-Combinatorics and Counting Principles
-Graph Theory (Prerequisite Modeling)
+Sets and Subsets,  Relations and Functions, Equivalence Relations and Partial Orders, Propositional and Predicate Logic, Mathematical Induction and Strong Induction, Recursion and Dynamic Programming, Combinatorics and Counting Principles, Graph Theory (Prerequisite Modeling)
